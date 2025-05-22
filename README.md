@@ -1,4 +1,3 @@
-Collecting workspace information```md
 # SEMINARIO_IA
 
 ## Overview
